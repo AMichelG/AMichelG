@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-I've been learning to code for the better part of 2022, after switching careers from Lighting Engineering. I started as self-taught following some tutorials here and there and eventually decided to enroll in the Argentinian Full Stack Web Development Bootcamp Henry which gave me the much needed direction and structure to my studies that I lacked.
+I've been learning to code for the better part of 2022, after switching careers from Lighting Engineering. I started as self-taught following some tutorials here and there and eventually decided to enroll in the Full Stack Web Development Bootcamp Henry which gave me the much needed direction and structure to my studies that I lacked.
 
 *   🌍  I'm based in México
 *   ✉️  You can contact me at [antonio.michel.gonzalez@gmail.com](mailto:antonio.michel.gonzalez@gmail.com)### Skills 
@@ -20,13 +20,8 @@ I've been learning to code for the better part of 2022, after switching careers 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/AMichelG" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/antonio-michel-952296bb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+</p>  
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/AMichelG" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/antonio-michel-952296bb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
