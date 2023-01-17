@@ -7,7 +7,10 @@ Full Stack Web Developer
 I've been learning to code for the better part of 2022, after switching careers from Lighting Engineering. I started as self-taught following some tutorials here and there and eventually decided to enroll in the Full Stack Web Development Bootcamp Henry which gave me the much needed direction and structure to my studies that I lacked.
 
 *   🌍  I'm based in México
-*   ✉️  You can contact me at [antonio.michel.gonzalez@gmail.com](mailto:antonio.michel.gonzalez@gmail.com)### Skills 
+*   ✉️  You can contact me at [antonio.michel.gonzalez@gmail.com](mailto:antonio.michel.gonzalez@gmail.com)
+   
+### Skills 
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
